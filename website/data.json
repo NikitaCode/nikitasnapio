@@ -1,0 +1,19 @@
+{ 
+    "logins":{
+      "facebook":
+      { 
+            "username":"aaa@a.com",
+            "password":"lamBada"
+      },
+      "twitter":
+      { 
+            "username":"bbb@a.com",
+            "password":"YaKurvvva"
+      },
+      "paypal":
+      { 
+            "username":"ccc@a.com",
+            "password":"NaPaSaRat"
+      }
+      }
+}
